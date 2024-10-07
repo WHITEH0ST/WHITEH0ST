@@ -24,6 +24,8 @@ BUT, I promise there's a lot to expect. I am very sure you're familiar with the 
 ## sPOILERs
 I updated my knowledge base from just python to some other stuff, So for spoliers, code wont just be written in Python. Expect them in this order or out of order. Who cares :)
 
+
+<code language=python>
 class Whitehost:
   self.can_code = true
 
@@ -35,7 +37,7 @@ whitehost.codes_language(python)  <!-- True -->
 whitehost.codes_language(javascript)  <!-- True -->
 whitehost.codes_language(php)  <!-- True -->
 whitehost.codes_language(rust)  <!-- True -->
-
+</code>
 
 > Lets pull together and commit ourselves, so we can push through anything.
 
