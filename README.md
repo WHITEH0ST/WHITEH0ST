@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, Straight to the point.
 
 <!--
 **WHITEH0ST/WHITEH0ST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,14 +24,18 @@ BUT, I promise there's a lot to expect. I am very sure you're familiar with the 
 ## sPOILERs
 I updated my knowledge base from just python to some other stuff, So for spoliers, code wont just be written in Python. Expect them in this order or out of order. Who cares :)
 
-<details>
-<summary>Language Ranking</summary>
-| Rank |    Languages   |
-|-----:|----------------|
-|     1|     Python     |
-|     2|    Javascript  |
-|     3|      Rust      |
-</details>
+class Whitehost:
+  self.can_code = true
+
+  def codes_language(self, lang):
+    return true
+
+whitehost = Whitehost()
+whitehost.codes_language(python)  <!-- True -->
+whitehost.codes_language(javascript)  <!-- True -->
+whitehost.codes_language(php)  <!-- True -->
+whitehost.codes_language(rust)  <!-- True -->
+
 
 > Lets pull together and commit ourselves, so we can push through anything.
 
